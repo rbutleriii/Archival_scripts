@@ -2,15 +2,15 @@
 
 Previously used scripts not included in published work. Mostly in Perl.
 
-splitMultitbl.pl - script that splits a multi-contig .tbl file into .tbl files for each contig
+<b>splitMultitbl.pl</b> - script that splits a multi-contig .tbl file into .tbl files for each contig
 
-splitGBK.pl - script that splits a multi-contig .gbk file into .gbk files for each contig
+<b>splitGBK.pl</b> - script that splits a multi-contig .gbk file into .gbk files for each contig
 
-remove_EC_gene_inferences.pl - For use with Prokka output, removes fields that cause issues with GenBank submission
+<b>remove_EC_gene_inferences.pl</b> - For use with Prokka output, removes fields that cause issues with GenBank submission
 
-clean_Geneious.pl - Script that strips extraneous information from the .tbl file exported from Geneious
+<b>clean_Geneious.pl</b> - Script that strips extraneous information from the .tbl file exported from Geneious
 
-affy_chip_parse.pl - Pulling info fields from ClinVar and adding to Affymetrix chip master file csv, output is tsv
+<b>affy_chip_parse.pl</b> - Pulling info fields from ClinVar and adding to Affymetrix chip master file csv, output is tsv
 
 
 Several scripts utilize outputs of other progams, primarily Prokka (Seeman, 2014) and Geneious (Commercial software: http://www.geneious.com/)
